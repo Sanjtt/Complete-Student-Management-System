@@ -1,7 +1,5 @@
 # Complete-Student-Management-System-new
 
-# Backend Tutorial: Node.js, Express.js and MongoDB
-
 A beginner-friendly REST API project demonstrating CRUD operations with Node.js, Express, MongoDB Atlas and Mongoose.
 
 ## Features
