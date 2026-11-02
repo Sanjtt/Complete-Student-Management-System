@@ -23,6 +23,8 @@ A beginner-friendly REST API project demonstrating CRUD operations with Node.js,
 - Postman
 
 ## Project structure
+```text
+.
 ├── controllers/
 │   └── studentController.js
 ├── models/
@@ -34,6 +36,7 @@ A beginner-friendly REST API project demonstrating CRUD operations with Node.js,
 ├── package.json
 ├── README.md
 └── server.js
+```
 
 ## Setup
 
